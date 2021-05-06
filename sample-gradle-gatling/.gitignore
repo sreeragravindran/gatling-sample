@@ -1,0 +1,14 @@
+.git/*
+.idea/*
+./.gradle
+/.gradle/
+/build/
+.java-version
+.classpath
+.java-version
+.project
+.settings/
+bin/
+logs/
+properties.txt
+**/.DS_Store

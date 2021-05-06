@@ -1,3 +1,5 @@
+package simulations
+
 import io.gatling.core.Predef.{Simulation, _}
 import io.gatling.http.Predef._
 

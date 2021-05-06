@@ -2,6 +2,7 @@
 import com.typesafe.config.ConfigFactory
 import io.gatling.app.Gatling
 import io.gatling.core.config.GatlingPropertiesBuilder
+import simulations.SampleRestApiSimulation
 
 /**
  * This object simply provides a `main` method that wraps
