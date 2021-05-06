@@ -1,0 +1,10 @@
+{
+  "simulation": "SampleRestApiSimulation",
+  "simulationId": "samplerestapisimulation",
+  "start": 1620286099862,
+  "description": "",
+  "scenarios": ["MyComputerTest"],
+  "assertions": [
+
+  ]
+}

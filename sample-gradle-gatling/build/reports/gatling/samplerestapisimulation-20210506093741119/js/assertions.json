@@ -1,0 +1,18 @@
+{
+  "simulation": "SampleRestApiSimulation",
+  "simulationId": "samplerestapisimulation",
+  "start": 1620293861119,
+  "description": "",
+  "scenarios": ["MyComputerTest"],
+  "assertions": [
+{
+  "path": "Global",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [1000.0],
+  "result": true,
+  "message": "Global: max of response time is less than 1000.0",
+  "actualValue": [526.0]
+}
+  ]
+}
